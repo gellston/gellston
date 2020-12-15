@@ -2,7 +2,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-<a href="https://www.instagram.com/bonghoekoo/"> <img align="left" alt="BongHoe Koo | Instagram" width="21px" src="https://github.com/gellston/gellston/blob/main/Instagram_logo-512.png"/></a>
+<a href="https://www.instagram.com/bonghoekoo/"> <img align="center" alt="BongHoe Koo | Instagram" width="21px" src="https://github.com/gellston/gellston/blob/main/Instagram_logo-512.png"/></a>
 <p/>
 
 ### Hi there 👋, I'm Bong!
