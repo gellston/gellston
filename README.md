@@ -1,10 +1,9 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gellston/gellston/issues)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-<p align="center">
 
 <a href="https://www.instagram.com/bonghoekoo/"> <img align="left" alt="BongHoe Koo | Instagram" width="21px" src="https://github.com/gellston/gellston/blob/main/Instagram_logo-512.png"/> </a> 
-<br/>
+
 
 ### Hi there 👋, I'm Bong! 
 <br/>
@@ -30,4 +29,4 @@
 <code><img height="40" src="https://github.com/gellston/gellston/blob/main/pycharm_logo_300x300.png"></code>
 <code><img height="40" src="https://github.com/gellston/gellston/blob/main/vsplogo.png"></code>
 
-</p>
+
