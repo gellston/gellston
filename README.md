@@ -8,6 +8,7 @@
 
 ### Hi there 👋, I'm Bong! 
 
+
 - 🌱 I’m currently learning c++, C#, C++/Cli, tensorflow
 - 📫 How to reach me: <a href="https://www.instagram.com/bonghoekoo/">@bonghoekoo</a> 
 
