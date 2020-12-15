@@ -4,7 +4,6 @@
 <center>
 
 ### Hi there 👋, I'm Bong!
-
 <a href="https://www.instagram.com/bonghoekoo/">
   <img align="left" alt="BongHoe Koo | Instagram" width="21px" src="https://github.com/gellston/gellston/blob/main/Instagram_logo-512.png"/>
 </a>
