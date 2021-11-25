@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning c++, C#, C++/Cli, tensorflow
 - 📫 How to reach me: <a href="https://www.instagram.com/bonghoekoo/">@bonghoekoo</a> 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gellston&show_icons=true&count_private=true&layout=compact)
+![Github stats](https://github.com/gellston/github-readme-stats/tree/main/api?username=gellston&show_icons=true&count_private=true&layout=compact)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gellston&layout=compact)
 
 
