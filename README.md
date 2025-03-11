@@ -11,9 +11,8 @@
 <p/>
 
 - 🌱 I’m currently learning C++, C#, C++/Cli, tensorflow2, pytorch
-- 📫 How to reach me: <a href="https://www.instagram.com/bonghoekoo/">@bonghoekoo</a> 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=gellston&show_icons=true&count_private=true&layout=compact)
+- 📫 How to reach me: <a href="https://www.instagram.com/bonghoekoo/">@bonghoekoo</a>
+  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gellston&layout=compact)
 
 
