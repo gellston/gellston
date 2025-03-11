@@ -16,8 +16,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gellston&layout=compact)
 
 
-
-
 **Languages and Tools:**  
 
 <code><img height="40" src="https://github.com/gellston/gellston/blob/main/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
