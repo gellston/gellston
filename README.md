@@ -11,20 +11,6 @@
 
 - 🌱 I’m currently learning C++, C#, C++/Cli, tensorflow2, pytorch
 - 📫 How to reach me: <a href="https://www.instagram.com/bonghoekoo/">@bonghoekoo</a>
-  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gellston&layout=compact)
-
-
-**Languages and Tools:**  
-
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/Java-logo.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/python.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/php.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/javascript.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/pycharm_logo_300x300.png"></code>
-<code><img height="40" src="https://github.com/gellston/gellston/blob/main/vsplogo.png"></code>
 
 
 
