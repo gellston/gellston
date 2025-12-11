@@ -1,6 +1,5 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gellston/gellston/issues)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgellston%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <a href="https://www.instagram.com/bonghoekoo/"> <img align="center" alt="BongHoe Koo | Instagram" width="21px" src="https://github.com/gellston/gellston/blob/main/Instagram_logo-512.png"/></a>
