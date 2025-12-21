@@ -9,7 +9,7 @@
 
 <p/>
 
-- 🌱 I’m currently learning C++, C#, C++/Cli, tensorflow2, pytorch, C# WPF, MVVM
+- 🌱 I’m currently learning C++, C#, C++/Cli, python tensorflow2, pytorch, WPF, MVVM
 
 
 
