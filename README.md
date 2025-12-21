@@ -9,8 +9,8 @@
 
 <p/>
 
-- 🌱 I’m currently learning C++, C#, C++/Cli, tensorflow2, pytorch
-- 📫 How to reach me: <a href="https://www.instagram.com/bonghoekoo/">@bonghoekoo</a>
+- 🌱 I’m currently learning C++, C#, C++/Cli, tensorflow2, pytorch, C# WPF, MVVM
+
 
 
 
