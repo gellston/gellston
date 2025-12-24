@@ -4,22 +4,22 @@
 
 <p align="center">
   
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=flat-square&logo=dotnet&color=purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&color=purple">
 &nbsp;
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B?style=flat-square&logo=cplusplus&labelColor=blue&color=blue"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B?style=for-the-badge&logo=cplusplus&labelColor=blue&color=blue"> 
 &nbsp;
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%2FCLI-C%2B%2B%2FCLI?style=flat-square&logo=dotnet&logoSize=amd&labelColor=blue&color=orange"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%2FCLI-C%2B%2B%2FCLI?style=for-the-badge&logo=dotnet&logoSize=amd&labelColor=blue&color=orange"> 
 &nbsp;
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/WPF-WPF?style=flat-square&logo=dotnet&logoSize=amd&color=purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/WPF-WPF?style=for-the-badge&logo=dotnet&logoSize=amd&color=purple">
 &nbsp;
   
 <br/>
 
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/PyTorch-PyTorch?style=flat-square&logo=pytorch&logoSize=amd&color=jinger">
+<img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-PyTorch?style=for-the-badge&logo=pytorch&logoSize=amd&color=jinger">
 &nbsp;
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow?style=flat-square&logo=tensorflow&logoSize=amd&color=yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow?style=for-the-badge&logo=tensorflow&logoSize=amd&color=yellow">
 &nbsp;
-<img width="80" height="20" alt="Static Badge" src="https://img.shields.io/badge/GitLab-GitLab?style=flat-square&logo=gitlab&logoSize=amd&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitLab-GitLab?style=for-the-badge&logo=gitlab&logoSize=amd&color=white">
 
 
 </p>
