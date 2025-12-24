@@ -1,6 +1,8 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gellston/gellston/issues)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-![Static Badge](https://img.shields.io/badge/FACEBOOK-FACEBOOK?style=flat-square&logo=facebook&logoSize=amd&color=blue)
+[![Static Badge](https://img.shields.io/badge/FACEBOOK-FACEBOOK?style=flat-square&logo=facebook&logoSize=amd&color=blue)(https://www.facebook.com/gellston)]
+[![Static Badge](https://img.shields.io/badge/Instagram-Instagram?style=flat-square&logo=instagram&logoSize=amd&color=red)(https://www.instagram.com/bonghoekoo/)]
+
 
 <p align="center">
   
