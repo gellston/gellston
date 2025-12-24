@@ -2,6 +2,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Static Badge](https://img.shields.io/badge/FACEBOOK-FACEBOOK?style=flat-square&logo=facebook&logoSize=amd&color=blue)](https://www.facebook.com/gellston)
 [![Static Badge](https://img.shields.io/badge/Instagram-Instagram?style=flat-square&logo=instagram&logoSize=amd&color=red)](https://www.instagram.com/bonghoekoo/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logoSize=amd&color=blue)](https://www.linkedin.com/in/bonghoe-koo-80934819b/)
 
 
 <p align="center">
