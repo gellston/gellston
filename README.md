@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning C++, C#, C++/Cli, python tensorflow2, WPF MVVM
 - :apple: I worked at Apple for about a year. (2017-2018)
-- :office: Working in HyVISION SYSTEM. Inc (2015-Current)
+- :office: I am working in HyVISION SYSTEM. Inc (2015-Current)
 
 
 
