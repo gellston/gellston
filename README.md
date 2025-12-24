@@ -10,9 +10,10 @@
 &nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%2FCLI-C%2B%2B%2FCLI?style=flat-square&logo=dotnet&logoSize=amd&labelColor=blue&color=orange"> 
 &nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%2FCLI-C%2B%2B%2FCLI?style=flat-square&logo=dotnet&logoSize=amd&labelColor=blue&color=orange"> 
-&nbsp;
+<br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-PyTorch?style=flat-square&logo=pytorch&logoSize=amd&color=jinger">
+&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow?style=flat-square&logo=tensorflow&logoSize=amd&color=yellow">
 
 
 </p>
@@ -21,7 +22,7 @@
 
 <p/>
 
-- 🌱 I’m currently learning C++, C#, C++/Cli, python tensorflow2, pytorch, WPF, MVVM
+- 🌱 I’m currently learning C++, C#, C++/Cli, python tensorflow2, WPF MVVM
 
 
 
