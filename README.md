@@ -15,6 +15,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-PyTorch?style=flat-square&logo=pytorch&logoSize=amd&color=jinger">
 &nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow?style=flat-square&logo=tensorflow&logoSize=amd&color=yellow">
+&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/GitLab-GitLab?style=flat-square&logo=gitlab&logoSize=amd&color=black">
 
 
 </p>
