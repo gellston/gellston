@@ -4,8 +4,8 @@
 
 <p align="center">
   
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&color=purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B?style=for-the-badge&logo=cplusplus&labelColor=blue&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=flat-square&logo=dotnet&color=purple"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B?style=flat-square&logo=cplusplus&labelColor=blue&color=blue"/>
 
 </p>
 
