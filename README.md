@@ -10,6 +10,9 @@
 &nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%2FCLI-C%2B%2B%2FCLI?style=flat-square&logo=dotnet&logoSize=amd&labelColor=blue&color=orange"> 
 &nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%2FCLI-C%2B%2B%2FCLI?style=flat-square&logo=dotnet&logoSize=amd&labelColor=blue&color=orange"> 
+&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-PyTorch?style=flat-square&logo=pytorch&logoSize=amd&color=jinger">
 
 
 </p>
