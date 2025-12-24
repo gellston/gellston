@@ -2,8 +2,12 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-<a href="https://www.instagram.com/bonghoekoo/"> <img align="center" alt="BongHoe Koo | Instagram" width="21px" src="https://github.com/gellston/gellston/blob/main/Instagram_logo-512.png"/></a>
-<p/>
+<p align="center">
+  
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&logoSize=amd&color=purple">
+
+
+</p>
 
 ### Hi there 👋, I'm Bong!
 
@@ -12,11 +16,6 @@
 - 🌱 I’m currently learning C++, C#, C++/Cli, python tensorflow2, pytorch, WPF, MVVM
 
 
-<p align="center">
-  
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&logoSize=amd&color=purple">
 
-
-</p>
 
 
