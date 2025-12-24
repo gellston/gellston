@@ -28,7 +28,6 @@
 [![Static Badge](https://img.shields.io/badge/Instagram-Instagram?style=flat-square&logo=instagram&logoSize=amd&color=red)](https://www.instagram.com/bonghoekoo/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logoSize=amd&color=blue)](https://www.linkedin.com/in/bonghoe-koo-80934819b/)
 
-
 ### Hi there 👋, I'm Bong!
 
 <p/>
