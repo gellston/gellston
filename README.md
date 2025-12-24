@@ -4,6 +4,11 @@
 
 <p align="center">
 
+## 🛠️ Tech Stack
+- ⚙️ C++ / C# / Python
+- 🔧 Build & CI
+- 🧰 Tools
+
 <img width="250" src="https://github.com/gellston/gellston/blob/main/60358804_1220328931474926_3401111338150264832_n.jpg?raw=true"/>
 <br/>
 <br/>
