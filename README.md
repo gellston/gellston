@@ -12,6 +12,9 @@
 - 🌱 I’m currently learning C++, C#, C++/Cli, python tensorflow2, pytorch, WPF, MVVM
 
 
+![Static Badge](https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&logoSize=amd&color=purple)
+
+
 
 
 
