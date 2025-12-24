@@ -28,6 +28,9 @@
 
 </p>
 
+<br/>
+<br/>
+
 [![Static Badge](https://img.shields.io/badge/FACEBOOK-FACEBOOK?style=for-the-badge&logo=facebook&logoSize=amd&color=blue)](https://www.facebook.com/gellston)
 [![Static Badge](https://img.shields.io/badge/Instagram-Instagram?style=for-the-badge&logo=instagram&logoSize=amd&color=red)](https://www.instagram.com/bonghoekoo/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logoSize=amd&color=blue)](https://www.linkedin.com/in/bonghoe-koo-80934819b/)
