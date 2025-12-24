@@ -28,20 +28,10 @@
 
 </p>
 
-<<<<<<< HEAD
-<br/>
-
 [![Static Badge](https://img.shields.io/badge/FACEBOOK-FACEBOOK?style=for-the-badge&logo=facebook&logoSize=amd&color=blue)](https://www.facebook.com/gellston)
 [![Static Badge](https://img.shields.io/badge/Instagram-Instagram?style=for-the-badge&logo=instagram&logoSize=amd&color=red)](https://www.instagram.com/bonghoekoo/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logoSize=amd&color=blue)](https://www.linkedin.com/in/bonghoe-koo-80934819b/)
 [![Static Badge](https://img.shields.io/badge/Notion-Notion?style=for-the-badge&logo=notion&logoSize=amd&color=black)](https://www.notion.so/gellston/BongHoe-Koo-03bd8358e22843dfa8f4b249912f45d2)
-
-=======
-[![Static Badge](https://img.shields.io/badge/FACEBOOK-FACEBOOK?style=flat-square&logo=facebook&logoSize=amd&color=blue)](https://www.facebook.com/gellston)
-[![Static Badge](https://img.shields.io/badge/Instagram-Instagram?style=flat-square&logo=instagram&logoSize=amd&color=red)](https://www.instagram.com/bonghoekoo/)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logoSize=amd&color=blue)](https://www.linkedin.com/in/bonghoe-koo-80934819b/)
->>>>>>> 54ed0b84f3245e170fcacec96500e1f21ce0e64a
-
 ### Hi there 👋, I'm Bong!
 
 <p/>
