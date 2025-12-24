@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-🛠️ Tech Stack 🛠️
+<font>🛠️ Tech Stack 🛠️ </font>
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&color=purple">
